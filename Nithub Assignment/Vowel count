@@ -1,0 +1,7 @@
+word = input("Enter a word: ").lower()
+vowels = "aeiou"
+count = 0
+for ch in word:
+    if ch in vowels:
+        count += 1
+print(f"Vowels: {count}")
