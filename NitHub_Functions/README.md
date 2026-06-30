@@ -39,9 +39,3 @@ Returns `True` ONLY if both are true:
 - Contains at least one `!`  
 Otherwise, returns `False`.
 
-## 🚀 How to Run / Test
-
-1. Clone this repo:
-   ```bash
-   git clone <your-repo-link>
-   cd <repo-name>
